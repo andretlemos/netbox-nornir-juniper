@@ -1,0 +1,11 @@
+
+---
+inventory:
+  plugin: NetBoxInventory2
+  options:
+     nb_url: 'http://127.0.0.1:8080/'
+     ssl_verify: False
+     nb_token: 'seu token'
+
+logging:
+  enabled: False
