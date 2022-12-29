@@ -1,6 +1,6 @@
 # netbox-nornir-juniper
 
-# Repositório com arquivos utilizando Nornir e Netbox para Equipamentos Juniper
+Repositório com arquivos utilizando Nornir e Netbox para Equipamentos Juniper
 
 
 # Instalação
